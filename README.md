@@ -33,7 +33,8 @@ meaningful way.
 
 
 ## The Power BI Dashboard :
-![Overview](https://github.com/user-attachments/assets/b2eb4f88-9983-4e1f-8c1f-b0e6bbf89c42)
+![image](https://github.com/user-attachments/assets/e3368f8d-7e08-4bfe-b052-6a094283022b)
+
 
 
 
